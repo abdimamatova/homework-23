@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/abdimamatova/static/css/main.e29b7ea6.css",
+    "main.js": "/abdimamatova/static/js/main.b8bc5dc3.js",
+    "index.html": "/abdimamatova/index.html",
+    "main.e29b7ea6.css.map": "/abdimamatova/static/css/main.e29b7ea6.css.map",
+    "main.b8bc5dc3.js.map": "/abdimamatova/static/js/main.b8bc5dc3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e29b7ea6.css",
+    "static/js/main.b8bc5dc3.js"
+  ]
+}
